@@ -34,8 +34,10 @@ sqlparse = "==0.3.0"
 typed-ast = "==1.1.1"
 urllib3 = "==1.24.2"
 wrapt = "==1.11.0"
-Django = "==2.2.13"
 Pillow = "==8.1.1"
+
+Django = "==2.2.18"
+
 
 [requires]
 python_version = "3.7"
